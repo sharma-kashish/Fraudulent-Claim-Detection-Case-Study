@@ -58,4 +58,4 @@
 - The project was based on structured tutorials and industry case studies.
 
 ## Contact
-Created by [@sharma-kashish] - feel free to contact me!
+Created by [@sharma-kashish, pradeepkumarr355199] - feel free to contact us!
